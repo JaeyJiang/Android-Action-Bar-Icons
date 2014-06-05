@@ -1,4 +1,4 @@
-Androton Action Bar Icons v0.1
+Android Action Bar Icons v0.1
 ==============
 
 Icon set (240 icons) is combined from [Font Awesome](http://fortawesome.github.io/Font-Awesome/) and
