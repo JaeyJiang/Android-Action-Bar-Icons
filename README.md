@@ -7,4 +7,5 @@ Icon set (~618 icons) combined from [Font Awesome](http://fortawesome.github.io/
 
 All icons follow official [Action Bar Icon UI Guidelines](http://developer.android.com/guide/practices/ui_guidelines/icon_design_action_bar.html).
 
-[Font Awesome licence](http://fortawesome.github.io/Font-Awesome/license/)
+[Android Stock icons license - Creative Commons Attribution 2.5](http://creativecommons.org/licenses/by/2.5/)
+[Font Awesome licence - SIL OFL 1.1](http://fortawesome.github.io/Font-Awesome/license/)
